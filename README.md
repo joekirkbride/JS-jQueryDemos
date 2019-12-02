@@ -1,2 +1,1 @@
-# JS-jQueryDemos
-basic JavaScript and jQuery demos
+# basic JavaScript and jQuery demos
